@@ -20,7 +20,7 @@ const Footer = () => {
           {/* Social Links */}
           <div className="flex items-center gap-4">
             <a
-              href="#"
+              href="https://github.com/Asim776"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="GitHub"
             >

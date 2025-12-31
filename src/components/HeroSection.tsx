@@ -35,8 +35,8 @@ const HeroSection = () => {
 
           {/* Name */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 opacity-0 animate-fade-up animation-delay-100">
-            <span className="text-foreground">Your </span>
-            <span className="gradient-text">Name</span>
+            <span className="text-foreground">Asim </span>
+            <span className="gradient-text">Sharif</span>
           </h1>
 
           {/* Role with Typing Effect */}
@@ -90,7 +90,7 @@ const HeroSection = () => {
             </a>
           </div>
         </div>
-
+<br />
         {/* Scroll Indicator */}
         <div className="absolute bottom-10 left-1/2 -translate-x-1/2 opacity-0 animate-fade-in animation-delay-600">
           <a
@@ -105,5 +105,5 @@ const HeroSection = () => {
     </section>
   );
 };
-
+<br />
 export default HeroSection;
